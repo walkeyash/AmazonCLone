@@ -157,6 +157,7 @@ body{
     height: auto;
     max-width: 270px;
     max-height: 200px;
+    cursor: pointer;
 }
 /*Section 3*/
 .section-3{
