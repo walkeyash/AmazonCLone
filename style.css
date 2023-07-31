@@ -89,6 +89,7 @@ body{
     background: url('https://m.media-amazon.com/images/I/61aURrton0L._SX3000_.jpg');
     background-size: cover;
     display: flex;
+    cursor: pointer;
 }
 .section-1 .section-1-container{
     margin-top: 300px;
